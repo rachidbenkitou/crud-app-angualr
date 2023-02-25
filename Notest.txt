@@ -1,0 +1,10 @@
+-donc npm is a tool that conatins packages for existing javascript code?
+
+Yes, that's correct. npm is a package manager that provides a vast collection of reusable code packages, which are available for free and can be easily installed into your JavaScript projects. These packages can include everything from small utility functions to large-scale libraries and frameworks, and can be used to add functionality and speed up development.
+
+- to use angular we need:
+Angular/Cli
+
+directive
+pipes
+router
