@@ -1,14 +1,34 @@
 {
-    "tasks":[
-        {
-            "id":1,
-            "label":"Learn Angular",
-            "completed":false
-        },
-        {
-            "id":2,
-            "label":"Learn Spring Boot",
-            "completed":false
-        }
-    ]
+  "tasks": [
+    {
+      "id": 1,
+      "label": "Learn Angular",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "label": "Learn Spring Boot",
+      "completed": true
+    },
+    {
+      "label": "Learn Mongo DB",
+      "completed": true,
+      "id": 3
+    },
+    {
+      "label": "Learn MySQL",
+      "completed": true,
+      "id": 4
+    },
+    {
+      "label": "Learn Typescript",
+      "completed": true,
+      "id": 5
+    },
+    {
+      "label": "Learn Oracle",
+      "completed": true,
+      "id": 6
+    }
+  ]
 }
